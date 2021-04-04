@@ -183,3 +183,48 @@
 TermSocket.open: 1
 TermSocket.open: Opened 1
 [I 21:23:07.702 NotebookApp] Saving file at /Final_Project.ipynb
+[I 21:25:17.480 NotebookApp] Saving file at /Final_Project.ipynb
+[I 21:25:53.601 NotebookApp] Saving file at /Final_Project.ipynb
+[I 21:26:51.824 NotebookApp] Saving file at /Final_Project.ipynb
+[I 21:27:03.645 NotebookApp] Saving file at /Final_Project.ipynb
+[I 21:27:07.039 NotebookApp] Saving file at /Final_Project.ipynb
+[I 21:27:32.447 NotebookApp] Saving file at /Final_Project.ipynb
+[I 21:27:45.226 NotebookApp] Saving file at /Final_Project.ipynb
+[I 21:28:15.289 NotebookApp] Saving file at /Final_Project.ipynb
+[I 21:29:07.074 NotebookApp] Saving file at /Final_Project.ipynb
+[I 21:29:15.886 NotebookApp] Saving file at /Final_Project.ipynb
+[I 21:29:22.335 NotebookApp] Saving file at /Final_Project.ipynb
+[I 21:29:39.988 NotebookApp] Saving file at /Final_Project.ipynb
+[I 21:31:07.053 NotebookApp] Saving file at /Final_Project.ipynb
+[I 21:31:24.555 NotebookApp] Saving file at /Final_Project.ipynb
+[I 21:33:04.642 NotebookApp] Saving file at /Final_Project.ipynb
+[I 21:33:50.139 NotebookApp] Saving file at /Final_Project.ipynb
+[I 21:33:57.968 NotebookApp] Saving file at /Final_Project.ipynb
+[I 21:34:06.505 NotebookApp] Saving file at /Final_Project.ipynb
+[I 21:35:01.161 NotebookApp] Saving file at /Final_Project.ipynb
+[I 21:35:07.054 NotebookApp] Saving file at /Final_Project.ipynb
+[I 21:35:52.583 NotebookApp] Saving file at /Final_Project.ipynb
+[I 21:36:03.020 NotebookApp] Saving file at /Final_Project.ipynb
+[I 21:37:07.062 NotebookApp] Saving file at /Final_Project.ipynb
+[I 21:37:10.191 NotebookApp] Saving file at /Final_Project.ipynb
+[I 21:37:36.704 NotebookApp] Saving file at /Final_Project.ipynb
+[I 21:39:07.082 NotebookApp] Saving file at /Final_Project.ipynb
+[I 21:41:07.071 NotebookApp] Saving file at /Final_Project.ipynb
+[I 21:43:07.085 NotebookApp] Saving file at /Final_Project.ipynb
+[I 21:43:24.501 NotebookApp] Saving file at /Final_Project.ipynb
+[I 21:44:16.826 NotebookApp] Saving file at /Final_Project.ipynb
+[I 21:45:07.130 NotebookApp] Saving file at /Final_Project.ipynb
+[I 21:46:42.661 NotebookApp] Saving file at /Final_Project.ipynb
+[I 21:47:07.080 NotebookApp] Saving file at /Final_Project.ipynb
+[I 21:47:29.394 NotebookApp] Saving file at /Final_Project.ipynb
+[W 21:48:06.929 NotebookApp] Culling 'idle' kernel 'python3' (94ff1748-95e8-4b92-b4b4-971592b9aa60) with 1 connections due to 628 seconds of inactivity.
+[I 21:48:06.930 NotebookApp] Kernel shutdown: 94ff1748-95e8-4b92-b4b4-971592b9aa60
+[W 21:48:07.600 NotebookApp] 410 DELETE /user/alejandrociuba-final-project-1-guqhol3h/api/sessions/d72ceb3e-6e88-4bc6-83e8-2c8bc151a435 (70.15.71.53): Kernel deleted before session
+[W 21:48:07.601 NotebookApp] Kernel deleted before session
+[W 21:48:07.601 NotebookApp] 410 DELETE /user/alejandrociuba-final-project-1-guqhol3h/api/sessions/d72ceb3e-6e88-4bc6-83e8-2c8bc151a435 (70.15.71.53) 2.440000ms referer=https://hub.gke2.mybinder.org/user/alejandrociuba-final-project-1-guqhol3h/notebooks/Final_Project.ipynb
+[W 21:48:13.855 NotebookApp] 404 DELETE /user/alejandrociuba-final-project-1-guqhol3h/api/sessions/d72ceb3e-6e88-4bc6-83e8-2c8bc151a435 (70.15.71.53): Session not found: session_id='d72ceb3e-6e88-4bc6-83e8-2c8bc151a435'
+[W 21:48:13.856 NotebookApp] Session not found: session_id='d72ceb3e-6e88-4bc6-83e8-2c8bc151a435'
+[W 21:48:13.856 NotebookApp] 404 DELETE /user/alejandrociuba-final-project-1-guqhol3h/api/sessions/d72ceb3e-6e88-4bc6-83e8-2c8bc151a435 (70.15.71.53) 1.640000ms referer=https://hub.gke2.mybinder.org/user/alejandrociuba-final-project-1-guqhol3h/notebooks/Final_Project.ipynb
+[I 21:48:13.918 NotebookApp] Kernel started: d5e5e15c-9681-4e62-b8a0-9aac9ca35a74, name: python3
+[I 21:49:07.081 NotebookApp] Saving file at /Final_Project.ipynb
+[I 21:49:45.351 NotebookApp] Saving file at /Final_Project.ipynb
