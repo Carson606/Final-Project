@@ -1,5 +1,5 @@
 {
-  "base_url": "/user/alejandrociuba-final-project-1-psc5188v/",
+  "base_url": "/binder/jupyter/user/alejandrociuba-final-project-1-ncr3vk7m/",
   "hostname": "0.0.0.0",
   "notebook_dir": "/home/jovyan",
   "password": false,
@@ -7,6 +7,6 @@
   "port": 8888,
   "secure": false,
   "sock": "",
-  "token": "Ivx9KaDkQouwg8200il1sA",
-  "url": "http://0.0.0.0:8888/user/alejandrociuba-final-project-1-psc5188v/"
+  "token": "Rt1aYbHvRcu9MhN3YEiwtw",
+  "url": "http://0.0.0.0:8888/binder/jupyter/user/alejandrociuba-final-project-1-ncr3vk7m/"
 }

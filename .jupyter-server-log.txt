@@ -362,3 +362,35 @@ TermSocket.open: Opened 1
 [I 01:22:26.101 NotebookApp] New terminal with automatic name: 1
 TermSocket.open: 1
 TermSocket.open: Opened 1
+[W 2021-04-08 15:08:58.808 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-04-08 15:08:58.808 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-04-08 15:08:58.808 LabApp] 'base_url' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-04-08 15:08:58.808 LabApp] 'token' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-04-08 15:08:58.808 LabApp] 'trust_xheaders' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-04-08 15:08:58.808 LabApp] 'allow_origin' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-04-08 15:08:58.808 LabApp] 'allow_origin_pat' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-04-08 15:08:58.808 LabApp] 'extra_template_paths' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-04-08 15:08:58.808 LabApp] 'jinja_template_vars' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-04-08 15:08:58.808 LabApp] 'shutdown_no_activity_timeout' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-04-08 15:08:58.808 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-04-08 15:08:58.808 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2021-04-08 15:08:58.816 LabApp] JupyterLab extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/jupyterlab
+[I 2021-04-08 15:08:58.816 LabApp] JupyterLab application directory is /srv/conda/envs/notebook/share/jupyter/lab
+[I 15:08:58.825 NotebookApp] nteract extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/nteract_on_jupyter
+[I 15:08:58.826 NotebookApp] Will shut down after 600 seconds with no kernels or terminals.
+[I 15:08:58.827 NotebookApp] Serving notebooks from local directory: /home/jovyan
+[I 15:08:58.827 NotebookApp] Jupyter Notebook 6.2.0 is running at:
+[I 15:08:58.827 NotebookApp] http://jupyter-alejandrociuba-2dfinal-2dproject-2d1-2dncr3vk7m:8888/binder/jupyter/user/alejandrociuba-final-project-1-ncr3vk7m/?token=...
+[I 15:08:58.827 NotebookApp]  or http://127.0.0.1:8888/binder/jupyter/user/alejandrociuba-final-project-1-ncr3vk7m/?token=...
+[I 15:08:58.827 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 15:08:58.831 NotebookApp] No web browser found: could not locate runnable browser.
+[I 15:08:59.151 NotebookApp] 302 GET /binder/jupyter/user/alejandrociuba-final-project-1-ncr3vk7m/ (10.244.90.63) 0.650000ms
+[I 15:09:02.374 NotebookApp] 302 GET /binder/jupyter/user/alejandrociuba-final-project-1-ncr3vk7m/?token=Rt1aYbHvRcu9MhN3YEiwtw (70.15.71.53) 0.590000ms
+[I 15:10:05.364 NotebookApp] Kernel started: e7fc07e3-3e12-4986-8a09-23acc1c7dd8f, name: python3
+[I 15:10:05.364 NotebookApp] Culling kernels with idle durations > 600 seconds at 60 second intervals ...
+[I 15:10:05.365 NotebookApp] Culling kernels even with connected clients
+[I 15:11:01.301 NotebookApp] Saving file at /Final_Project.ipynb
+[I 15:12:05.972 NotebookApp] Saving file at /Final_Project.ipynb
+[I 15:13:07.145 NotebookApp] New terminal with automatic name: 1
+TermSocket.open: 1
+TermSocket.open: Opened 1
