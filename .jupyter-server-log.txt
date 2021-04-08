@@ -404,3 +404,15 @@ TermSocket.open: Opened 1
 [W 15:22:07.770 NotebookApp] 404 DELETE /binder/jupyter/user/alejandrociuba-final-project-1-ncr3vk7m/api/sessions/e9673df4-ccd8-4e78-bfdb-5d0f932a86a7 (70.15.71.53) 1.310000ms referer=https://notebooks.gesis.org/binder/jupyter/user/alejandrociuba-final-project-1-ncr3vk7m/notebooks/Most%20Educated%20and%20Richest%20Neighborhoods%20-%20Alejandro%20Ciuba.ipynb
 [I 15:22:07.890 NotebookApp] Kernel started: e7329bc8-82fb-4e80-a810-ccc613eee85e, name: python3
 [I 15:32:38.947 NotebookApp] Saving file at /Most Educated and Richest Neighborhoods - Alejandro Ciuba.ipynb
+[W 15:33:05.366 NotebookApp] Culling 'idle' kernel 'python3' (e7329bc8-82fb-4e80-a810-ccc613eee85e) with 1 connections due to 656 seconds of inactivity.
+[I 15:33:05.367 NotebookApp] Kernel shutdown: e7329bc8-82fb-4e80-a810-ccc613eee85e
+[W 15:33:05.688 NotebookApp] 410 DELETE /binder/jupyter/user/alejandrociuba-final-project-1-ncr3vk7m/api/sessions/c7094f15-ebee-48cc-859e-f1becc120ffd (70.15.71.53): Kernel deleted before session
+[W 15:33:05.688 NotebookApp] Kernel deleted before session
+[W 15:33:05.689 NotebookApp] 410 DELETE /binder/jupyter/user/alejandrociuba-final-project-1-ncr3vk7m/api/sessions/c7094f15-ebee-48cc-859e-f1becc120ffd (70.15.71.53) 1.240000ms referer=https://notebooks.gesis.org/binder/jupyter/user/alejandrociuba-final-project-1-ncr3vk7m/notebooks/Most%20Educated%20and%20Richest%20Neighborhoods%20-%20Alejandro%20Ciuba.ipynb
+[I 15:34:06.027 NotebookApp] Saving file at /Most Educated and Richest Neighborhoods - Alejandro Ciuba.ipynb
+[W 15:37:21.349 NotebookApp] 404 DELETE /binder/jupyter/user/alejandrociuba-final-project-1-ncr3vk7m/api/sessions/c7094f15-ebee-48cc-859e-f1becc120ffd (70.15.71.53): Session not found: session_id='c7094f15-ebee-48cc-859e-f1becc120ffd'
+[W 15:37:21.350 NotebookApp] Session not found: session_id='c7094f15-ebee-48cc-859e-f1becc120ffd'
+[W 15:37:21.350 NotebookApp] 404 DELETE /binder/jupyter/user/alejandrociuba-final-project-1-ncr3vk7m/api/sessions/c7094f15-ebee-48cc-859e-f1becc120ffd (70.15.71.53) 1.560000ms referer=https://notebooks.gesis.org/binder/jupyter/user/alejandrociuba-final-project-1-ncr3vk7m/notebooks/Most%20Educated%20and%20Richest%20Neighborhoods%20-%20Alejandro%20Ciuba.ipynb
+[I 15:37:21.469 NotebookApp] Kernel started: aa43d574-2322-4804-bfc3-e03d55cfabed, name: python3
+[I 15:38:05.614 NotebookApp] Saving file at /Most Educated and Richest Neighborhoods - Alejandro Ciuba.ipynb
+[I 15:38:06.316 NotebookApp] Saving file at /Most Educated and Richest Neighborhoods - Alejandro Ciuba.ipynb
