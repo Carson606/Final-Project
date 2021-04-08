@@ -4,7 +4,7 @@
 .profile
 .local
 .jupyter
-..ipython
+.ipython
 .ipynb_checkpoints
 .config/configstore
 .conda
